@@ -6,8 +6,8 @@
     colors_in_the_rainbow.unshift(next_color)
   end
   
-  def using_pop(continents)
-    continents = "Antarctica"
+  def using_pop(array)
+    array.pop
     
   end
 
